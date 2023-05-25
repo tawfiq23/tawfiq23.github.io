@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nopstation.nopcart_flutter",
+    "sha256_cert_fingerprints":
+    ["E4:31:F6:49:DB:15:83:47:CD:0B:AC:E5:18:75:2B:FE:39:C5:33:3F:E1:3D:C2:FF:18:95:9D:AA:96:D0:33:33"]
+  }
+}]
